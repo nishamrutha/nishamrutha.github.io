@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
-layout: posts
+title: "Codes"
+permalink: /codes/
 author_profile: true
+classes: wide
 ---

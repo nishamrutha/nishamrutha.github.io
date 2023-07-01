@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
+title: "Research"
+permalink: /research/
+classes: wide
 author_profile: true
 ---
