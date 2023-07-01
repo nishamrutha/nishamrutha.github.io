@@ -14,6 +14,16 @@ classes: wide
   <img src="/assets/images/photo.jpeg" alt=""></a>
 </figure>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome! I'm Neelesh Amrutha, a passionate researcher in astrophysics. I am currently pursuing my Ph.D. at
+the Research School of Astronomy and Astrophysics, Mt. Stromlo Observatory, The Australian National University, 
+under the guidance of [**A/Prof. Christian Wolf**](https://researchers.anu.edu.au/researchers/wolf-c) 
+and [**Dr. Christopher Onken**](https://researchers.anu.edu.au/researchers/onken-c) along with my fellow PhD candidate,
+[**Samuel Lai**](https://samlaihei.github.io).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+With a background in both Astronomy & Astrophysics and Computer Science, I strive to combine these disciplines to 
+unravel the complexities of celestial objects and phenomena. My research focuses on studying Active Galactic Nuclei (AGN)
+and exploring the effects of orientation, obscuration, and accretion on inferred AGN sub-types.
+
+Outside my research, my fascination with black holes extends to my passion for 3D modeling. I am actively engaged in 
+creating captivating visual representations of black holes using Blender. It allows me to explore and showcase the 
+awe-inspiring beauty and intricate nature of these cosmic phenomena.
