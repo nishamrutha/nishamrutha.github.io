@@ -27,3 +27,7 @@ and exploring the effects of orientation, obscuration, and accretion on inferred
 Outside my research, my fascination with black holes extends to my passion for 3D modeling. I am actively engaged in 
 creating captivating visual representations of black holes using [Blender](https://www.blender.org). It allows me to explore and showcase the 
 awe-inspiring beauty and intricate nature of these cosmic phenomena.
+
+For more about my research, visit the [**Research**][1] page or have a look at my [**CV**](/assets/docs/CV_2023.pdf).
+
+[1]: /research/
