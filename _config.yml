@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Neelesh Amrutha
+masthead_title: "Neelesh Amrutha - Astronomy"
+logo: "/assets/images/mast-head_logo.png"
 email: neelesh.amrutha<AT>anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website
