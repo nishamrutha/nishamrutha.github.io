@@ -29,6 +29,6 @@ feature_row:
     of CLAGN through the analysis of light curves."
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row type="left" %} 
