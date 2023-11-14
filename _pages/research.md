@@ -20,7 +20,7 @@ feature_row:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
   - title: "Changing Look AGN"
-    image_path: /assets/images/LCs.pdf
+    image_path: /assets/images/g1229419-315410.pdf
     excerpt: "The [OIII] emission line is a tracer of the host galaxy star formation along with AGN narrow-line emission. 
     This is not expected to change in short timescales. In contrast, the broad Hβ emission line is a tracer of the
     accretion rate of the AGN and is expected to vary in short timescales. Therefore, the ratio of the Hβ to [OIII] emission lines is
