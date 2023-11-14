@@ -4,7 +4,8 @@ permalink: /research/
 classes: wide
 author_profile: true
 intro:
-  - excerpt: 'My research focuses on disentangling the complexities of Active Galactic Nuclei (AGN) using optical spectroscopy.
+  - title: "Research"
+    excerpt: 'My research focuses on disentangling the complexities of Active Galactic Nuclei (AGN) using optical spectroscopy.
     I mainly use spectra from the Six-degree Field Galaxy Survey (6dFGS: 2001-2009), along with modern spectra from ANU 2.3m Wide Field Spectrograph (WiFeS)
     to compare changes in the Hβ/[OIII] line ratios on a 15-20 year timescale.'
     image_path: /assets/images/Hb_OIII_visualisation.pdf 
