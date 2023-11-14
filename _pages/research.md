@@ -25,3 +25,6 @@ feature_row:
     the [OIII]/H$\beta$ emission line ratio."
 ---
 
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row type="left" %} 
