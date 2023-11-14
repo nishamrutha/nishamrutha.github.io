@@ -5,11 +5,12 @@ classes: wide
 author_profile: true
 intro:
   - excerpt: 'My research focuses on disentangling the complexities of Active Galactic Nuclei (AGN) using optical spectroscopy.
-  I mainly use spectra from the Six-degree Field Galaxy Survey (6dFGS: 2001-2009), along with modern spectra from ANU 2.3m Wide Field Spectrograph (WiFeS)
-  to compare changes in the Hβ/[OIII] line ratios on a 15-20 year timescale.'
+    I mainly use spectra from the Six-degree Field Galaxy Survey (6dFGS: 2001-2009), along with modern spectra from ANU 2.3m Wide Field Spectrograph (WiFeS)
+    to compare changes in the Hβ/[OIII] line ratios on a 15-20 year timescale.'
+    image_path: /assets/images/Hb_OIII_visualisation.pdf 
 feature_row:
   - title: "Understanding AGN Sub-Types"
-    image_path: /assets/images/Hb_OIII_visualisation.pdf 
+    image_path: /assets/images/sub_type_changes.pdf 
     excerpt: "My Ph.D. project aims on unraveling the physical distinctions among AGN sub-types and examining 
     their correlations with the orientation of the AGN and host galaxy, the accretion rate of the AGN, and the dust obscuration of the 
     host galaxy. Specifically, my work entails a comprehensive exploration of variations in the Hβ and [OIII] emission line ratios over two epochs.
@@ -18,7 +19,7 @@ feature_row:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
   - title: "Changing Look AGN"
-    image_path: /assets/images/CLAGN.pdf
+    image_path: /assets/images/LCs.pdf
     excerpt: "The [OIII] emission line is a tracer of the host galaxy star formation along with AGN narrow-line emission. 
     This is not expected to change in short timescales. In contrast, the broad Hβ emission line is a tracer of the
     accretion rate of the AGN and is expected to vary in short timescales. Therefore, the ratio of the Hβ to [OIII] emission lines is
