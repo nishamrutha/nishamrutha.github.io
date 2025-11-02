@@ -30,6 +30,6 @@ For me, astronomy is both science and magic, a way of turning light into knowled
 Outside of research, I love experimenting with 3D modelling and animation in [Blender](https://www.blender.org), 
 diving into fantasy worlds, and playing badminton.
 
-For more about my research, visit the [**Research**][1] page or have a look at my [**CV**](/assets/docs/CV_2025.pdf).
+For more about my research, visit the [**Publications**][1] page or have a look at my [**CV**](/assets/docs/CV_2025.pdf).
 
-[1]: /research/
+[1]: /publications/
