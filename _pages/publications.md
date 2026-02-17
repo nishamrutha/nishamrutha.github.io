@@ -5,9 +5,9 @@ author_profile: true
 classes: wide
 ---
 
-[**Correcting Black Hole Masses Biased by Size Inertia in Broad Line Regions**](https://www.researchsquare.com/article/rs-6443191/latest)  
+[**Strong long-term variability in active galactic nuclei affects virial black hole mass measurements**](https://doi.org/10.1038/s41467-026-69166-w)  
 **Amrutha, Neelesh**; Wolf, Christian; Onken, Christopher A.; Hon, Wei Jeat; Lai, Samuel; Tan, Ashley Hai Tung; Webster, Rachel  
-(Nature Communications, _under review_)
+(Nature Communications, _2026_)
 
 [**Discovering changing-look AGN in the 6dF Galaxy Survey using ATLAS light curves**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2322A/abstract)  
 **Amrutha, Neelesh**; Wolf, Christian; Onken, Christopher A.; Hon, Wei Jeat; Lai, Samuel; Tonry, John L.; Webster, Rachel  
