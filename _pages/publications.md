@@ -16,6 +16,10 @@ classes: wide
 <h2>
 	Co-authored
 </h2>
+
+[**Optical Variability Structure Function of Low-Luminosity AGN using ATLAS Lightcurves**](https://arxiv.org/abs/2605.03577)  
+Tan, Ashley Hai Tung; Wolf, Christian; **Amrutha, Neelesh**; Onken, Christopher A.; Tonry, John L.; Webster, Rachel  
+(MNRAS, _submitted_)
  
 [**The accretion of a solar mass per day by a 17-billion solar mass black hole**](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..520W/abstract)  
 Wolf, Christian; Lai, Samuel; Onken, Christopher A.; **Amrutha, Neelesh**; Bian, Fuyan; Hon, Wei Jeat; Tisserand, Patrick; Webster, Rachel  
