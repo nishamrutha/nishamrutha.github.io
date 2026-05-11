@@ -15,16 +15,16 @@ intro:
 
 feature_row:
   - title: "Understanding AGN Sub-Types"
-    image_path: /assets/images/MR_plot.pdf
     excerpt: >
       My Ph.D. project aims to unravel the physical distinctions among AGN sub-types and examine
       their correlations with the orientation of the AGN and host galaxy, the accretion rate of
       the AGN, and the dust obscuration of the host galaxy. Specifically, my work entails a
       comprehensive exploration of variations in the Hβ and [OIII] emission line ratios over two
       epochs. By analysing these ratios, I aim to infer the transient properties of AGN.
+    image_path: /assets/images/MR_plot.pdf
+
 
   - title: "Changing Look AGN"
-    image_path: /assets/images/g1229419-315410.pdf
     excerpt: >
       The [OIII] emission line is a tracer of host galaxy star formation along with AGN
       narrow-line emission, and is not expected to change on short timescales. In contrast, the
@@ -35,9 +35,9 @@ feature_row:
       Changing Look AGN (CLAGN). For my
       [**Honours Thesis**](/assets/docs/Amrutha_Honours_Thesis_2022.pdf), I focused on
       identifying CLAGN through the analysis of light curves.
+    image_path: /assets/images/g1229419-315410.pdf
 
   - title: "A Complete Spectroscopic Atlas and Catalogue of AGN"
-    image_path: /assets/images/spec_decomp.pdf
     excerpt: >
       I am releasing a comprehensive spectroscopic atlas and catalogue of AGN, 
       including all objects used in the projects described above. The atlas is complete to K < 12.65 mag at z < 0.1,
@@ -49,6 +49,7 @@ feature_row:
       emission-line fluxes, widths, and ratios, as well as AGN–host galaxy decomposition products. Data products are 
       currently available upon request (via email) and will be publicly released following submission of the 
       accompanying paper (target: June 2026).
+    image_path: /assets/images/spec_decomp.pdf
 ---
 
 {% include feature_row id="intro" type="left" %}
