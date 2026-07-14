@@ -47,7 +47,7 @@ feature_row:
       resource for studies of AGN transients, variability, and multi-wavelength populations, and is intended to 
       complement major surveys such as LSST, SDSS-V, and 4MOST. It includes derived spectroscopic properties such as
       emission-line fluxes, widths, and ratios, as well as AGN–host galaxy decomposition products. Data products are 
-      currently available at the [Stromlo AGN Datasets page](https://www.mso.anu.edu.au/stromlo_agn/) and the paper is available 
+      currently available at the [Stromlo AGN Datasets](https://www.mso.anu.edu.au/stromlo_agn/) page and the paper is available 
       [here](https://ui.adsabs.harvard.edu/abs/2026arXiv260627675A/abstract).
     image_path: /assets/images/spec_decomp.pdf
 ---
