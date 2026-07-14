@@ -37,18 +37,18 @@ feature_row:
       identifying CLAGN through the analysis of light curves.
     image_path: /assets/images/g1229419-315410.pdf
 
-  - title: "A Complete Spectroscopic Atlas and Catalogue of AGN"
+  - title: "OzSSy1: The Australian Southern Seyfert-1 Spectroscopic Atlas and Catalogue at z < 0.1"
     excerpt: >
-      I am releasing a comprehensive spectroscopic atlas and catalogue of AGN, 
+      I have released a comprehensive spectroscopic atlas and catalogue of AGN, 
       including all objects used in the projects described above. The atlas is complete to K < 12.65 mag at z < 0.1,
       covering the Southern Sky while avoiding the Galactic Plane. It comprises approximately 1,000 spectra of 
-      ~900 AGN obtained with the ANU 2.3m Wide Field Spectrograph ([**WiFeS**](https://rsaa.anu.edu.au/observatories/instruments/wide-field-spectrograph-wifes)). 
+      ~900 AGN obtained with the ANU 2.3m Wide Field Spectrograph ([_WiFeS_](https://rsaa.anu.edu.au/observatories/instruments/wide-field-spectrograph-wifes)). 
       The catalogue is designed as a reference
       resource for studies of AGN transients, variability, and multi-wavelength populations, and is intended to 
       complement major surveys such as LSST, SDSS-V, and 4MOST. It includes derived spectroscopic properties such as
       emission-line fluxes, widths, and ratios, as well as AGN–host galaxy decomposition products. Data products are 
-      currently available upon request (via email) and will be publicly released following submission of the 
-      accompanying paper (target: June 2026).
+      currently available at the [Stromlo AGN Datasets page](https://www.mso.anu.edu.au/stromlo_agn/) and the paper is available 
+      [here](https://ui.adsabs.harvard.edu/abs/2026arXiv260627675A/abstract).
     image_path: /assets/images/spec_decomp.pdf
 ---
 
