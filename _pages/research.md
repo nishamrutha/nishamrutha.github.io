@@ -11,7 +11,7 @@ intro:
       using optical spectroscopy. I mainly use spectra from the Six-degree Field Galaxy Survey
       (6dFGS: 2001–2009), along with modern spectra from the ANU 2.3m Wide Field Spectrograph
       (WiFeS) to compare changes in the Hβ/[OIII] line ratios on a 15–20 year timescale.
-    image_path: /assets/images/Hb_OIII_visualisation.pdf
+    image_path: /assets/images/Hb_OIII_visualisation.png
 
 feature_row:
   - title: "Understanding AGN Sub-Types"
@@ -21,7 +21,7 @@ feature_row:
       the AGN, and the dust obscuration of the host galaxy. Specifically, my work entails a
       comprehensive exploration of variations in the Hβ and [OIII] emission line ratios over two
       epochs. By analysing these ratios, I aim to infer the transient properties of AGN.
-    image_path: /assets/images/MR_plot.pdf
+    image_path: /assets/images/MR_plot.png
 
 
   - title: "Changing Look AGN"
@@ -35,7 +35,7 @@ feature_row:
       Changing Look AGN (CLAGN). For my
       [**Honours Thesis**](/assets/docs/Amrutha_Honours_Thesis_2022.pdf), I focused on
       identifying CLAGN through the analysis of light curves.
-    image_path: /assets/images/g1229419-315410.pdf
+    image_path: /assets/images/g1229419-315410.png
 
   - title: "OzSSy1: The Australian Southern Seyfert-1 Spectroscopic Atlas and Catalogue at z < 0.1"
     excerpt: >
@@ -49,7 +49,7 @@ feature_row:
       emission-line fluxes, widths, and ratios, as well as AGN–host galaxy decomposition products. Data products are 
       currently available at the [Stromlo AGN Datasets](https://www.mso.anu.edu.au/stromlo_agn/) page and the paper is available 
       [here](https://ui.adsabs.harvard.edu/abs/2026arXiv260627675A/abstract).
-    image_path: /assets/images/spec_decomp.pdf
+    image_path: /assets/images/spec_decomp.png
 ---
 
 {% include feature_row id="intro" type="left" %}
